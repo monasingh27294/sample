@@ -14,5 +14,5 @@ app.listen('3000',function(err){
        console.log('app connected')
    }else{
        console.log(err)
-   }g
+   }
 });
